@@ -9,3 +9,4 @@ void main() {
     print("Entered number is even");
   }
 }
+//Even or Odd

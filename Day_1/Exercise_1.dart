@@ -8,3 +8,4 @@ void main() {
   y = int.parse(stdin.readLineSync()!);
   print("Dear $x you have ${100 - y} yrs to become 100");
 }
+//Getting name and age of the user and finding number of years until they become 100
